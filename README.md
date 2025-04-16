@@ -24,11 +24,11 @@ pip install -r requirements.txt
 python train.py
 
 🧪 Dataset
-We use the DENTEX dataset for training and validation, which contains labeled dental X-rays. Labels are stored in JSON format, and classes include:
-Normal
-Caries
-Deep Caries
-Impacted
+We use the DENTEX dataset for training and validation, which contains labeled dental X-rays.
+Labels are stored in JSON format, and classes include:
+
+Normal             Caries
+Deep Caries        Impacted
 Periapical Lesion
 
 📊 Training Details
